@@ -1,0 +1,16 @@
+{
+  "name": "ME-Tech Calcshot",
+  "short_name": "Calcshot",
+  "description": "Unit conversion for the engine room. Works without net.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0a2a4a",
+  "theme_color": "#0a2a4a",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
